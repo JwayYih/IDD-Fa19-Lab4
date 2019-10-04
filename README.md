@@ -10,6 +10,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
+[Vibrating Motor](https://photos.app.goo.gl/1uVR6aNsdeb6smLx6)
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
@@ -37,7 +39,10 @@ delay controls the speed
 
 **a. Make a video of your proto puppet.**
 
+[Paper Puppet](https://photos.app.goo.gl/tK6N8yhN5XBZqGqm9)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
  
+ [Squeeze Me!](https://photos.app.goo.gl/nN85YETLdUe4YCmSA)
