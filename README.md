@@ -35,6 +35,9 @@ delay controls the speed
 
 **Include a photo/movie of your raw circuit in action.**
 
+Oops, I already put it in the paper signal
+[Fast and Slow Shuffle](https://photos.app.goo.gl/nnxyvPX593xgJF146)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
